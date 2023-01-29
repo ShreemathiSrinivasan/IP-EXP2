@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>second page</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+    body 
+    {
+        background-image: url('lobby.jpg');
+        background-repeat : no-repeat;
+        background-size: cover;
+    }
+    
+    </style>    
+    </head>  
+    <body>
+        <h6>WELCOME TO CLASSIC</h6>
+        <form>
+            <label>check in date:</label>
+            <input type="date">
+            <label>check out date:</label>
+            <input type="date">
+            
+        </form>
+        <a href="file:///C:/Users/shree/OneDrive/Documents/NetBeansProjects/webpage/index/payment/public_html/index.html">
+        
+         <img src="price.jpg" alt="ROOMS BOOKED" style="width:300px;height:200px;">
+        </a>
+        
+    
+    </body>
+        
+    
+   
+</html>
